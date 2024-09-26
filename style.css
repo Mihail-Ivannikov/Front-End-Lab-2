@@ -54,8 +54,8 @@ td{
     border-radius: 20px;
     background-color: #C99A99;
     position: absolute;
-    margin-top: 25%;
-    margin-left: 25%;
+    top: 25%;
+    left: 25%;
     border: double black 4pt;
     opacity: 70%;
 }
